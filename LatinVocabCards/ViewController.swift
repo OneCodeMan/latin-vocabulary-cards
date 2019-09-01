@@ -116,6 +116,11 @@ class ViewController: UIViewController {
     .init(englishWord: "morning", latinWord: "māne"),
     .init(englishWord: "ruler", latinWord: "rēgula, -ae"),
     .init(englishWord: "every day", latinWord: "quotidie"),
+    .init(englishWord: "every year", latinWord: "quotannis"),
+    .init(englishWord: "although", latinWord: "quamquam"),
+    .init(englishWord: "as long as", latinWord: "quamdiu"),
+    .init(englishWord: "indeed, in fact", latinWord: "quidem"),
+    .init(englishWord: "only, just", latinWord: "modo"),
     ]
     
     var copyWords = [Word]()
